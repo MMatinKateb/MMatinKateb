@@ -25,4 +25,4 @@ Projects and discussions related to computer networks and cyber security.
 Feel free to reach out to me on GitHub or via email matin.kateb.mk@gmail.com
 
 ## ⚡ Fun fact
-When I'm not coding or studying, I love to NULL XD
+When I'm not coding or studying, I love to NULL (I live a one-dimentional life and I think I'm gonna go crazy someday, I hope things change XD)
