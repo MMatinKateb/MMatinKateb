@@ -7,7 +7,7 @@ Computer Engineering, with a focus on computer networks and cyber security.
 
 ## 💻 I'm fluent in
 - Python
-- C++
+- C++ (Qt Creator)
 - PHP
 - SQL Databases
 - Linux (Kali, Ubuntu)
