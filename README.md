@@ -1,9 +1,9 @@
 # Howdy, I'm Matin 👋
-I'm a Computer Engineering student with a passion for computer networks and cyber security. 
+I'm a Computer Engineering student with a passion for computer networks and network security. 
 I have a strong background in Python, C++, PHP, SQL Databases, and Linux (Kali, Ubuntu).
 
 ## 🎓 I'm currently studying
-Computer Engineering, with a focus on computer networks and cyber security.
+Computer Engineering, with a focus on computer networks and network security.
 
 ## 💻 I'm fluent in
 - Python
@@ -13,13 +13,13 @@ Computer Engineering, with a focus on computer networks and cyber security.
 - Linux (Kali, Ubuntu)
 
 ## 🔭 I’m currently working on
-Expanding my knowledge in cyber security and contributing to open-source projects related to it.
+Expanding my knowledge in network security and contributing to open-source projects related to it.
 
 ## 🌱 I’m currently learning
-Advanced concepts in computer networks and the latest trends in cyber security.
+Advanced concepts in computer networks and the latest trends in network security.
 
 ## 👯 I’m looking to collaborate on
-Projects and discussions related to computer networks and cyber security.
+Projects and discussions related to computer networks and network security.
 
 ## 📫 How to reach me
 Feel free to reach out to me on GitHub or via email matin.kateb.mk@gmail.com
